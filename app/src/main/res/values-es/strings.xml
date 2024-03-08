@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MentalCare</string>
+
+    <!-- SplashScreen Page -->
+    <string name="id_group">CH2-PS224</string>
+    <string name="img1_description">Image 1</string>
+    <string name="img2_description">Image 2</string>
+    <string name="id_group_description">Group ID text</string>
+    <string name="app_icon_description">App icon</string>
+    <string name="mental_health_brainn">Mental health images</string>
+
+    <!-- Welcome Page -->
+    <string name="create_acc">Crear una cuenta</string>
+    <string name="desc_acc">
+        Crea una cuenta en menos de un minuto para seguir tu progreso, recibir recomendaciones útiles y conectarte a nuestra aplicación.
+    </string>
+    <string name="btn_create">Crear cuenta</string>
+    <string name="img_line">Línea de imagen</string>
+    <string name="text_or">O</string>
+    <string name="english">English</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="french">French</string>
+    <string name="spanish">Spanish</string>
+    <string name="have_account">¿Ya tiene una cuenta?</string>
+    <string name="btn_signin">Iniciar sesión</string>
+
+    <!-- SigIn Page -->
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="imgSignIn">Imágenes para la página de inicio de sesión</string>
+    <string name="signin_successful_message">¡Inicio de sesión exitoso! Bienvenido a la página de inicio</string>
+
+    <!-- SigUp Page -->
+    <string name="name">Nombre</string>
+    <string name="btn_signup">Regístrese en</string>
+    <string name="imgSignUp">Imágenes para la página de inscripción</string>
+    <string name="signup_successful_message">La inscripción se ha realizado correctamente Bienvenido a la página de inicio</string>
+
+    <!-- CustomView -->
+    <string name="invalidEmail">Correo electrónico no válido</string>
+    <string name="error_name">El nombre no puede estar vacío</string>
+    <string name="error_password">La contraseña debe tener al menos 8 caracteres</string>
+
+    <!-- Home Page -->
+    <string name="hi">¡Hola,</string>
+    <string name="feelText">¿Cómo se siente hoy?</string>
+    <string name="angryText">Enojado</string>
+    <string name="sadText">Triste</string>
+    <string name="neutralText">Neutro</string>
+    <string name="happyText">Feliz</string>
+    <string name="start_treatment">Inicie el tratamiento que más le convenga</string>
+    <string name="btn_start">Comenzar</string>
+    <string name="selfCareText">Autocuidado</string>
+    <string name="counselingText">Asesoramiento</string>
+    <string name="meditationText">Meditación</string>
+    <string name="imgAngry">Expresión de enfado</string>
+    <string name="imgSad">expresión triste</string>
+    <string name="imgNeutral">Expresión neutra</string>
+    <string name="imgHappy">Expresión feliz</string>
+    <string name="imgCounseling">Asesoría de imagen</string>
+    <string name="imgMeditation">Meditación con imágenes</string>
+    <string name="imgWeb">Imagen para el sitio web</string>
+    <string name="angry_text">Respira hondo y suelta la rabia. La clave es el positivismo.</string>
+    <string name="sad_text">Recuerda que los tiempos difíciles nunca duran, ¡pero las personas difíciles sí! Mantente fuerte y positivo.</string>
+    <string name="neutral_text">Encuentra hoy la alegría en las pequeñas cosas. Tu mentalidad positiva es importante.</string>
+    <string name="happy_text">Contagia tu felicidad a los que te rodean. ¡Tu alegría es contagiosa!</string>
+    <string name="counseling_toast">Pronto estará disponible la función de asesoramiento</string>
+    <string name="meditation_toast">Pronto estará disponible la función de meditación</string>
+    <string name="website_url">https://www.selecthub.com/mental-health/facts-about-mental-health/</string>
+
+
+    <!-- Data Demografis Page -->
+    <string name="welcome">Bienvenido!</string>
+    <string name="titleText">Estamos aquí para ayudarle</string>
+    <string name="messageText">Rellene los siguientes datos</string>
+    <string name="age">Edad</string>
+    <string name="btn_next">Siguiente</string>
+
+    <!-- Data Prediction Page -->
+    <string name="title_prediction">Por favor, facilite información para obtener una predicción de tratamiento adecuada.</string>
+    <string name="btn_done">Hecho</string>
+
+    <!-- Result Prediction Page -->
+    <string name="result_prediction">Predicción Resultados del tratamiento</string>
+    <string name="text_prediction">¿Cómo mejorar su salud mental?</string>
+    <string name="btn_save">Guardar</string>
+    <string name="delete_history">Borrar historial</string>
+    <string name="version">Versión 1.0</string>
+    <string name="language">Idioma</string>
+    <string name="leave">Salida</string>
+    <string name="show_profile">Mostrar perfil</string>
+    <string name="show_data">Mostrando datos</string>
+    <string name="delete">Eliminar</string>
+    <string name="demographic_data_not_available">Datos demográficos no disponibles</string>
+    <string name="data_successfully_updated">Datos actualizados correctamente</string>
+    <string name="data_not_successfully_updated">Los datos no se actualizaron correctamente</string>
+    <string name="low_probability">Baja probabilidad</string>
+    <string name="high_probability">Alta probabilidad</string>
+    <string name="low_probability_message1">Parece que ya cuentas con un buen apoyo o con estrategias de afrontamiento eficacesestrategias de afrontamiento. Manténgase al tanto de su salud mental continuando con las actividades que disfruta y fortaleciendo las relaciones sociales positivas. disfrutar y reforzando las relaciones sociales positivas.</string>
+    <string name="low_probability_message2">Para cuidar su salud mental, considere la posibilidad de mantener una vida equilibrada, hacer ejercicio con regularidad y establecer relaciones sociales positivas. Estas prácticas pueden ayudar a mejorar su bienestar mental general su bienestar mental general.</string>
+    <string name="low_probability_message3">Es posible que necesite recursos o servicios de apoyo para tu salud mental en el futuro. Considera la posibilidad de buscar apoyo en un profesional de salud mental de confianza o recursos de salud mental de confianza.</string>
+    <string name="low_probability_message4">El nivel de necesidades de atención de salud mental se percibe como bajo según sus respuestas. Siga manteniendo su salud mental realizando actividades que le gusten y manteniendo tu equilibrio vital.</string>
+    <string name="low_probability_message5">Siga controlando su salud mental y busque ayuda si experimenta cambios significativos o sentimientos de preocupación. o sentimientos de preocupación.</string>
+    <string name="high_probability_message1">Hable con amigos, familiares o compañeros de trabajo sobre la salud mental. Compartir experiencias puede ayudar a reducir el estigma y fortalecer el apoyo social.</string>
+    <string name="high_probability_message2">Explore las políticas de licencia y apoyo a los empleados en su lugar de trabajo para comprender las opciones disponibles para respaldar su salud mental y su bienestar.</string>
+    <string name="high_probability_message3">Es importante aumentar su comprensión de la salud mental. La atención y el apoyo adecuados pueden tener un impacto positivo en su bienestar general. No dude en buscar más información y hablar con un profesional de salud mental si es necesario.</string>
+    <string name="high_probability_message4">Considere ponerse en contacto con un profesional de salud mental para obtener el asesoramiento y el apoyo que necesita.</string>
+    <string name="high_probability_message5">Se enfatiza la búsqueda inmediata de ayuda profesional, especialmente si siente que su condición mental es grave. La consulta con un profesional de salud mental puede brindarle el apoyo y la dirección necesarios para superar sus problemas.</string>
+    <string name="imgDemo">Imagen para datos demográficos</string>
+    <string name="choose_gender">Elige género</string>
+    <string name="choose_status">Elegir estado</string>
+    <string name="choose_current_job">Elegir trabajo actual</string>
+    <string name="question_residence">1. Apakah tempat tinggal Anda berada di wilayah perkotaan di Indonesia saat ini?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="question_self_employe">2. ¿Está buscando tratamiento para una condición de salud mental?</string>
+    <string name="question_family_history">3. ¿Hay antecedentes de enfermedad mental en su familia?</string>
+    <string name="question_seeking_treatment">4. ¿Le resulta difícil conciliar el sueño o experimenta alteraciones del sueño con regularidad?</string>
+    <string name="question_impact_on_work">5. ¿Se siente a menudo inquieto, preocupado o tiene pensamientos difíciles de controlar?</string>
+    <string name="question_organization_size">6. ¿Ha experimentado cambios significativos en sus patrones de alimentación, como pérdida de apetito o aumento de comer en exceso?</string>
+    <string name="question_remote_work">7. Si tiene una condición de salud mental, ¿siente que interfiere con su trabajo?</string>
+    <string name="question_tech_company">8. ¿Trabaja de forma remota (fuera de la oficina) al menos el 50 % del tiempo?</string>
+    <string name="question_mental_health_benefits">9. ¿Su empleador no ofrece beneficios de salud mental?</string>
+    <string name="question_mental_health_options">10. ¿Desconoce las opciones de tratamiento de salud mental que ofrece su empleador?</string>
+    <string name="question_mental_health_discussion">11. ¿Su empleador nunca ha discutido la salud mental como parte de su programa de bienestar de los empleados?</string>
+    <string name="question_mental_health_resources">12. ¿Su empleador no proporciona recursos para aprender más sobre problemas de salud mental y cómo buscar ayuda?</string>
+    <string name="question_mental_health_anonymity">13. ¿No está protegido su anonimato si decide utilizar recursos de tratamiento de salud mental o abuso de sustancias?</string>
+    <string name="question_mental_health_leave">14. ¿Le resultó difícil tomar la baja médica debido a una condición de salud mental?</string>
+    <string name="question_mental_health_discussion2">15. ¿Cree que hablar sobre temas de salud mental con su empleador tendrá consecuencias negativas?</string>
+    <string name="question_mental_health_consequences">16. ¿Crees que hablar sobre temas de salud física con tu empleador tendrá consecuencias negativas?</string>
+    <string name="question_mental_health_discussion_colleague">17. ¿Se siente incómodo hablando de temas de salud mental con sus colegas?</string>
+    <string name="question_mental_health_discussion_supervisor">18. ¿Se siente reacio a hablar sobre temas de salud mental con su supervisor directo?</string>
+    <string name="question_mental_health_interview">19. ¿Se siente reacio a hablar sobre temas de salud mental con posibles empleadores en las entrevistas?</string>
+    <string name="question_physical_health_interview">20. ¿Se siente reacio a hablar sobre temas de salud física con posibles empleadores en las entrevistas?</string>
+    <string name="submit">Enviar</string>
+    <string name="back_to_home">Volver a Inicio</string>
+    <string name="imgresult">Imagen para resultado</string>
+    <string name="posterwebsite">Póster para sitio web</string>
+    <string name="imgprofile">Imagen para perfil</string>
+    <string name="welcome_activity_title">Welcome Activity</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">SignUp</string>
+    <string name="demographic_data">"Demographic Data "</string>
+    <string name="prediction_data">"Prediction Data "</string>
+    <string name="prediction">Result Prediction</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+
+</resources>

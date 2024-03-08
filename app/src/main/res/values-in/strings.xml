@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MentalCare</string>
+
+    <!-- SplashScreen Page -->
+    <string name="id_group">CH2-PS224</string>
+    <string name="img1_description">Image 1</string>
+    <string name="img2_description">Image 2</string>
+    <string name="id_group_description">Group ID text</string>
+    <string name="app_icon_description">App icon</string>
+    <string name="mental_health_brainn">Mental health images</string>
+
+    <!-- Welcome Page -->
+    <string name="create_acc">Membuat akun</string>
+    <string name="desc_acc">
+        buat akun dalam waktu kurang dari satu menit untuk melacak kemajuan Anda, menerima rekomendasi yang berguna, dan bergabunglah dengan aplikasi kami.
+    </string>
+    <string name="english">English</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="french">French</string>
+    <string name="spanish">Spanish</string>
+    <string name="btn_create">Buat Akun</string>
+    <string name="img_line">Gambar garis</string>
+    <string name="text_or">Atau</string>
+    <string name="have_account">Sudah memiliki Akun?</string>
+    <string name="btn_signin">Masuk</string>
+
+    <!-- SigIn Page -->
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+    <string name="imgSignIn">Gambar untuk di halaman masuk</string>
+    <string name="signin_successful_message">SignIn berhasil! Selamat datang di halaman utama</string>
+
+    <!-- SigUp Page -->
+    <string name="name">Nama</string>
+    <string name="btn_signup">Daftar</string>
+    <string name="imgSignUp">Gambar di halaman Daftar</string>
+    <string name="signup_successful_message">Pendaftaran berhasil! Selamat datang di halaman utama</string>
+
+    <!-- CustomView -->
+    <string name="invalidEmail">Email Tidak Valid</string>
+    <string name="error_name">Nama tidak boleh kosong</string>
+    <string name="error_password">Kata sandi minimal harus terdiri dari 8 karakter</string>
+
+    <!-- Home Page -->
+    <string name="hi">Hallo,</string>
+    <string name="feelText">Bagaimana Perasaan Anda Hari Ini?</string>
+    <string name="angryText">Marah</string>
+    <string name="sadText">Sedih</string>
+    <string name="neutralText">Netral</string>
+    <string name="happyText">Senang</string>
+    <string name="start_treatment">Mulai perawatan yang sesuai untuk Anda</string>
+    <string name="btn_start">Memulai</string>
+    <string name="selfCareText">Perawatan Diri</string>
+    <string name="counselingText">Konseling</string>
+    <string name="meditationText">Meditasi</string>
+    <string name="imgAngry">Ekspresi marah</string>
+    <string name="imgSad">Ekspresi sedih</string>
+    <string name="imgNeutral">Ekspresi netral</string>
+    <string name="imgHappy">Ekspresi senang</string>
+    <string name="imgCounseling">Icon Konseling</string>
+    <string name="imgMeditation">Icon Meditasi</string>
+    <string name="imgWeb">Gambar untuk website</string>
+    <string name="angry_text">Tarik napas dalam-dalam dan lepaskan kemarahan! Berpikir positif adalah kuncinya.</string>
+    <string name="sad_text">Ingatlah, masa-masa sulit tidak akan pernah berakhir, tetapi orang-orang yang tangguh akan bertahan! Tetaplah kuat dan positif.</string>
+    <string name="neutral_text">Temukan kegembiraan dalam hal-hal kecil hari ini. Pola pikir positif Anda penting!</string>
+    <string name="happy_text">Sebarkan kebahagiaan Anda kepada orang-orang di sekitar Anda. Kegembiraan Anda menular!</string>
+    <string name="counseling_toast">Fitur konseling segera hadir</string>
+    <string name="meditation_toast">Fitur meditasi segera hadir</string>
+    <string name="website_url">https://www.selecthub.com/mental-health/facts-about-mental-health/</string>
+
+    <!-- Data Demografis Page -->
+    <string name="welcome">Selamat datang!</string>
+    <string name="titleText">Kami di sini untuk membantu Anda</string>
+    <string name="messageText">Harap Lengkapi Data Berikut</string>
+    <string name="age">Usia</string>
+    <string name="btn_next">Berikutnya</string>
+
+    <!-- Data Prediction Page -->
+    <string name="title_prediction">Mohon berikan informasi untuk mendapatkan prediksi perawatan yang tepat!</string>
+    <string name="btn_done">Selesai</string>
+
+    <!-- Result Prediction Page -->
+    <string name="result_prediction">Hasil Prediksi Perawatan </string>
+    <string name="text_prediction">Bagaimana Cara Meningkatkan Kesehatan Mental Anda?</string>
+    <string name="btn_save">Simpan</string>
+    <string name="delete_history">Menghapus Riwayat</string>
+    <string name="version">Versi 1.0</string>
+    <string name="language">Bahasa</string>
+    <string name="leave">Keluar</string>
+    <string name="show_profile">Display profile</string>
+    <string name="show_data">Showing Data</string>
+    <string name="delete">Delete</string>
+    <string name="demographic_data_not_available">Demographic data not available</string>
+    <string name="data_successfully_updated">Data updated successfully</string>
+    <string name="data_not_successfully_updated">Data was not updated successfully</string>
+    <string name="low_probability">Low Probability</string>
+    <string name="high_probability">High Probability</string>
+    <string name="low_probability_message1">Terlihat Anda sudah memiliki dukungan yang baik atau strategi koping yang efektif. Tetap menjaga kesehatan mental Anda dengan terus melakukan kegiatan yang Anda nikmati dan memperkuat hubungan sosial positif.</string>
+    <string name="low_probability_message2">Untuk menjaga kesehatan mental Anda, pertimbangkan untuk menjaga keseimbangan hidup, rutin berolahraga, dan menjalin hubungan sosial positif. Praktik-praktik ini dapat membantu meningkatkan kesejahteraan mental Anda secara keseluruhan.</string>
+    <string name="low_probability_message3">Anda mungkin membutuhkan sumber daya atau layanan pendukung untuk mendukung kesehatan mental Anda di masa depan. Pertimbangkan untuk mencari dukungan dari profesional atau sumber daya kesehatan mental terpercaya.</string>
+    <string name="low_probability_message4">Tingkat kebutuhan perawatan kesehatan mental dipersepsikan rendah berdasarkan jawaban Anda. Terus pertahankan kesehatan mental Anda dengan melakukan kegiatan yang Anda nikmati dan menjaga keseimbangan hidup Anda.</string>
+    <string name="low_probability_message5">Tetap pantau kesehatan mental Anda dan cari bantuan jika mengalami perubahan signifikan atau perasaan yang memprihatinkan.</string>
+    <string name="high_probability_message1">Berbicaralah dengan teman, keluarga, atau rekan kerja tentang kesehatan mental. Berbagi pengalaman dapat membantu mengurangi stigma dan memperkuat dukungan sosial.</string>
+    <string name="high_probability_message2">Eksplorasi kebijakan cuti dan dukungan karyawan di tempat kerja Anda untuk memahami opsi yang tersedia untuk mendukung kesehatan mental dan kesejahteraan Anda.</string>
+    <string name="high_probability_message3">Penting untuk meningkatkan pemahaman Anda tentang kesehatan mental. Perawatan dan dukungan yang tepat dapat berdampak positif pada kesejahteraan Anda secara keseluruhan. Jangan ragu untuk mencari informasi lebih lanjut dan berbicara dengan profesional kesehatan mental jika diperlukan.</string>
+    <string name="high_probability_message4">Pertimbangkan untuk menghubungi seorang ahli kesehatan mental untuk mendapatkan saran dan dukungan yang diperlukan.</string>
+    <string name="high_probability_message5">Segera mencari bantuan profesional sangat ditekankan, terutama jika Anda merasa bahwa kondisi mental Anda dalam keadaan gawat. Konsultasi dengan ahli kesehatan mental dapat memberikan dukungan dan arahan yang diperlukan untuk mengatasi permasalahan Anda.</string>
+    <string name="imgDemo">Image for Demographic Data</string>
+    <string name="choose_gender">Pilih jenis kelamin</string>
+    <string name="choose_status">Pilih status</string>
+    <string name="choose_current_job">Pilih pekerjaan saat ini</string>
+    <string name="question_residence">1. Apakah Anda saat ini tinggal di wilayah perkotaan di Indonesia?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="question_self_employe">2. Apakah Anda mencari pengobatan untuk kondisi kesehatan mental?</string>
+    <string name="question_family_history">3. Apakah ada riwayat penyakit mental dalam keluarga Anda?</string>
+    <string name="question_seeking_treatment">4. Apakah Anda merasa sulit untuk tidur atau mengalami gangguan tidur secara teratur?</string>
+    <string name="question_impact_on_work">5. Apakah Anda sering merasa gelisah, khawatir, atau memiliki pikiran yang sulit dikendalikan?</string>
+    <string name="question_organization_size">6. Apakah Anda mengalami perubahan signifikan dalam pola makan Anda, seperti hilangnya nafsu makan atau peningkatan makan berlebihan?</string>
+    <string name="question_remote_work">7. Jika Anda memiliki kondisi kesehatan mental, apakah Anda merasa itu mengganggu pekerjaan Anda?</string>
+    <string name="question_tech_company">8. Apakah Anda bekerja secara remote (di luar kantor) setidaknya 50% dari waktu?</string>
+    <string name="question_mental_health_benefits">9. Apakah pengusaha Anda tidak menyediakan manfaat kesehatan mental?</string>
+    <string name="question_mental_health_options">10. Apakah Anda tidak mengetahui opsi perawatan kesehatan mental yang disediakan oleh pengusaha Anda?</string>
+    <string name="question_mental_health_discussion">11. Apakah pengusaha Anda tidak pernah membahas kesehatan mental sebagai bagian dari program kesejahteraan karyawan?</string>
+    <string name="question_mental_health_resources">12. Apakah pengusaha Anda tidak menyediakan sumber daya untuk mempelajari lebih lanjut tentang masalah kesehatan mental dan cara mencari bantuan?</string>
+    <string name="question_mental_health_anonymity">13. Apakah anonimitas Anda tidak dilindungi jika Anda memilih untuk memanfaatkan sumber daya pengobatan kesehatan mental atau penyalahgunaan zat?</string>
+    <string name="question_mental_health_leave">14. Apakah sulit bagi Anda untuk mengambil cuti medis karena kondisi kesehatan mental?</string>
+    <string name="question_mental_health_discussion2">15. Apakah Anda berpikir bahwa membicarakan masalah kesehatan mental dengan pengusaha Anda akan memiliki konsekuensi negatif?</string>
+    <string name="question_mental_health_consequences">16. Apakah Anda berpikir bahwa membicarakan masalah kesehatan fisik dengan pengusaha Anda akan memiliki konsekuensi negatif?</string>
+    <string name="question_mental_health_discussion_colleague">17. Apakah Anda merasa tidak enak jika membicarakan masalah kesehatan mental dengan rekan kerja Anda?</string>
+    <string name="question_mental_health_discussion_supervisor">18. Apakah Anda merasa enggan membicarakan masalah kesehatan mental dengan atasan langsung Anda?</string>
+    <string name="question_mental_health_interview">19. Apakah Anda merasa enggan membahas masalah kesehatan mental dengan calon pengusaha dalam wawancara?</string>
+    <string name="question_physical_health_interview">20. Apakah Anda merasa enggan membahas masalah kesehatan fisik dengan calon pengusaha dalam wawancara?</string>
+    <string name="submit">Kirim</string>
+    <string name="back_to_home">Kembali ke Home</string>
+    <string name="imgresult">Image For Result</string>
+    <string name="posterwebsite">Poster For Website</string>
+    <string name="imgprofile">Image For Profile</string>
+    <string name="welcome_activity_title">Welcome Activity</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">SignUp</string>
+    <string name="demographic_data">"Demographic Data "</string>
+    <string name="prediction_data">"Prediction Data "</string>
+    <string name="prediction">Result Prediction</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="4dp"
+    app:cardMaxElevation="4dp"
+    app:cardUseCompatPadding="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingVertical="7dp"
+        android:paddingHorizontal="14dp">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Dea Meilani" />
+
+        <TextView
+            android:id="@+id/tv_age"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="@+id/tv_name"
+            app:layout_constraintTop_toBottomOf="@+id/tv_name"
+            tools:text="14" />
+
+        <View
+            android:id="@+id/wall1"
+            android:layout_width="1dp"
+            android:layout_height="0dp"
+            android:background="@color/black"
+            app:layout_constraintBottom_toBottomOf="@id/tv_age"
+            app:layout_constraintStart_toEndOf="@+id/tv_age"
+            android:layout_marginLeft="7dp"
+            app:layout_constraintTop_toTopOf="@+id/tv_age" />
+
+
+        <TextView
+            android:id="@+id/tv_status"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@+id/wall1"
+            app:layout_constraintTop_toBottomOf="@+id/tv_name"
+            android:layout_marginStart="7dp"
+            tools:text="employed" />
+
+        <View
+            android:id="@+id/wall2"
+            android:layout_width="1dp"
+            android:layout_height="0dp"
+            android:background="@color/black"
+            app:layout_constraintBottom_toBottomOf="@id/tv_age"
+            app:layout_constraintStart_toEndOf="@+id/tv_status"
+            android:layout_marginLeft="7dp"
+            app:layout_constraintTop_toTopOf="@+id/tv_age" />
+
+
+        <TextView
+            android:id="@+id/tv_maritalStatus"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@+id/wall2"
+            app:layout_constraintTop_toBottomOf="@+id/tv_name"
+            android:layout_marginStart="7dp"
+            tools:text="employed" />
+
+        <TextView
+            android:id="@+id/tv_result"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:gravity="center"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="12"
+            android:background="@drawable/bg_result"
+            android:padding="7dp"/>
+
+        <TextView
+            android:id="@+id/tv_msg_input"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:layout_marginEnd="7dp"
+            android:gravity="start|end|center"
+            app:layout_constraintEnd_toStartOf="@+id/tv_result"
+            app:layout_constraintStart_toStartOf="@+id/tv_age"
+            app:layout_constraintTop_toBottomOf="@+id/tv_age"
+            tools:text="@tools:sample/lorem[30]" />
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

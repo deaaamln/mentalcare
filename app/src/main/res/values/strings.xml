@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">MentalCare</string>
+
+    <!-- SplashScreen Page -->
+    <string name="id_group">CH2-PS224</string>
+    <string name="img1_description">Image 1</string>
+    <string name="img2_description">Image 2</string>
+    <string name="id_group_description">Group ID text</string>
+    <string name="app_icon_description">App icon</string>
+    <string name="mental_health_brainn">Mental health images</string>
+
+    <!-- Welcome Page -->
+    <string name="create_acc">Create an account</string>
+    <string name="desc_acc">
+        create an account in less than a minute to track your\nprogress, receive useful recommendations, and\njoin our app.
+    </string>
+    <string name="english">English</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="french">French</string>
+    <string name="spanish">Spanish</string>
+    <string name="btn_create">Create Account</string>
+    <string name="img_line">Image Line</string>
+    <string name="text_or">Or</string>
+    <string name="have_account">Already have an Account?</string>
+    <string name="btn_signin">Sign In</string>
+
+    <!-- SignIn Page -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="imgSignIn">Images for the login page</string>
+    <string name="signin_successful_message">SignIn was successful! Welcome to the home page</string>
+
+    <!-- SignUp Page -->
+    <string name="name">Name</string>
+    <string name="btn_signup">SignUp</string>
+    <string name="imgSignUp">Images for the sign up page</string>
+    <string name="signup_successful_message">SignUp was successful! Welcome to the home page</string>
+
+    <!-- CustomView -->
+    <string name="invalidEmail">Invalid Email</string>
+    <string name="error_name">Name cannot be empty</string>
+    <string name="error_password">Password must be at least 8 characters long</string>
+
+    <!-- Home Page -->
+    <string name="hi">Hello,</string>
+    <string name="feelText">How Do You Feel Today?</string>
+    <string name="angryText">Angry</string>
+    <string name="sadText">Sad</string>
+    <string name="neutralText">Neutral</string>
+    <string name="happyText">Happy</string>
+    <string name="start_treatment">Start the treatment that works for you</string>
+    <string name="btn_start">Get Started</string>
+    <string name="selfCareText">SelfCare</string>
+    <string name="counselingText">Counseling</string>
+    <string name="meditationText">Meditation</string>
+    <string name="imgAngry">Angry expression</string>
+    <string name="imgSad">sad expression</string>
+    <string name="imgNeutral">Neutral expression</string>
+    <string name="imgHappy">Happy expression</string>
+    <string name="imgCounseling">Image Counseling</string>
+    <string name="imgMeditation">Image Meditation</string>
+    <string name="imgWeb">Image for Website</string>
+    <string name="angry_text">Take a deep breath and let go of the anger! Positivity is key.</string>
+    <string name="sad_text">Remember, tough times never last, but tough people do! Stay strong and positive.</string>
+    <string name="neutral_text">Find joy in the little things today. Your positive mindset matters!</string>
+    <string name="happy_text">Spread your happiness to those around you. Your joy is contagious!</string>
+    <string name="counseling_toast">Counseling feature is coming soon</string>
+    <string name="meditation_toast">Meditation feature is coming soon</string>
+    <string name="website_url">https://www.selecthub.com/mental-health/facts-about-mental-health/</string>
+
+
+    <!-- Data Demografis Page -->
+    <string name="welcome">Welcome!</string>
+    <string name="titleText">We are here to help you</string>
+    <string name="messageText">Please Complete the Following Data</string>
+    <string name="age">Age</string>
+    <string name="btn_next">Next</string>
+
+    <!-- Data Prediction Page -->
+    <string name="title_prediction">Please provide information to get an appropriate treatment prediction!</string>
+    <string name="btn_done">Done</string>
+
+    <!-- Result Prediction Page -->
+    <string name="result_prediction">Prediction Treatment Results</string>
+    <string name="text_prediction">How To Improve Your Mental Health?</string>
+    <string name="btn_save">Save</string>
+    <string name="delete_history">Delete History</string>
+    <string name="version">Version 1.0</string>
+    <string name="language">Language</string>
+    <string name="leave">Exit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="show_profile">Display profile</string>
+    <string name="show_data">Showing Data</string>
+    <string name="delete">Delete</string>
+    <string name="demographic_data_not_available">Demographic data not available</string>
+    <string name="data_successfully_updated">Data updated successfully</string>
+    <string name="data_not_successfully_updated">Data was not updated successfully</string>
+    <string name="low_probability">Low Probability</string>
+    <string name="high_probability">High Probability</string>
+    <string name="low_probability_message1">It sounds like you already have good support or effective coping strategies. Keep taking care of your mental health by continuing to do activities you enjoy and strengthening positive social relationships.</string>
+    <string name="low_probability_message2">To maintain your mental health, consider maintaining a balanced life, regular exercise, and positive social relationships. These practices can help improve your overall mental well-being.</string>
+    <string name="low_probability_message3">You may need resources or support services to support your mental health in the future. Consider seeking support from a trusted mental health professional or resource.</string>
+    <string name="low_probability_message4">The level of mental health care need is perceived to be low based on your answers. Continue to maintain your mental health by doing activities you enjoy and keeping your life in balance.</string>
+    <string name="low_probability_message5">Keep monitoring your mental health and seek help if you experience significant changes or feelings of concern.</string>
+    <string name="high_probability_message1">Talk to friends, family or coworkers about mental health. Sharing experiences can help reduce stigma and strengthen social support.</string>
+    <string name="high_probability_message2">Explore your workplace\'s leave policies and employee support to understand the options available to support your mental health and well-being.</string>
+    <string name="high_probability_message3">It is important to improve your understanding of mental health. The right treatment and support can have a positive impact on your overall well-being. Do not hesitate to seek more information and speak to a mental health professional if needed.</string>
+    <string name="high_probability_message4">Consider reaching out to a mental health professional for the necessary advice and support.</string>
+    <string name="high_probability_message5">Seeking professional help immediately is highly emphasized, especially if you feel that your mental state is in distress. Consultation with a mental health professional can provide the necessary support and direction to address your concerns.</string>
+    <string name="imgDemo">Image for Demographic Data</string>
+    <string name="choose_gender">Choose gender</string>
+    <string name="choose_status">Choose status</string>
+    <string name="choose_current_job">Choose current job</string>
+    <string name="question_residence">1. Are you currently living in an urban area in Indonesia?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question_self_employe">2. Are you seeking treatment for a mental health condition?</string>
+    <string name="question_family_history">3. Is there a history of mental illness in your family?</string>
+    <string name="question_seeking_treatment">4. Do you find it difficult to sleep or experience sleep disturbances on a regular basis?</string>
+    <string name="question_impact_on_work">5. Do you often feel anxious, worried, or have thoughts that are hard to control?</string>
+    <string name="question_organization_size">6. Are you experiencing significant changes in your eating patterns, such as loss of appetite or increased overeating?</string>
+    <string name="question_remote_work">7. If you have a mental health condition, do you feel it interferes with your work?</string>
+    <string name="question_tech_company">8. Do you work remotely (outside the office) at least 50% of the time?</string>
+    <string name="question_mental_health_benefits">9. Is your employer not providing mental health benefits?</string>
+    <string name="question_mental_health_options">10. Are you unaware of the mental health care options provided by your employer?</string>
+    <string name="question_mental_health_discussion">11. Has your employer never addressed mental health as part of an employee wellbeing program?</string>
+    <string name="question_mental_health_resources">12. Does your employer not provide resources to learn more about mental health issues and how to seek help?</string>
+    <string name="question_mental_health_anonymity">13. Is your anonymity not protected if you choose to utilize mental health or substance abuse treatment resources?</string>
+    <string name="question_mental_health_leave">14. Is it difficult for you to take medical leave due to a mental health condition?</string>
+    <string name="question_mental_health_discussion2">15. Do you think that talking about mental health issues with your employer will have negative consequences?</string>
+    <string name="question_mental_health_consequences">16. Do you think that talking about physical health issues with your employer will have negative consequences?</string>
+    <string name="question_mental_health_discussion_colleague">17. Do you feel bad about talking about mental health issues with your coworkers?</string>
+    <string name="question_mental_health_discussion_supervisor">18. Do you feel reluctant to discuss mental health issues with your immediate supervisor?</string>
+    <string name="question_mental_health_interview">19. Do you feel reluctant to discuss mental health issues with potential employers in interviews?</string>
+    <string name="question_physical_health_interview">20. Do you feel reluctant to discuss physical health issues with potential employers in interviews?</string>
+    <string name="submit">Submit</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="imgresult">Image For Result</string>
+    <string name="posterwebsite">Poster For Website</string>
+    <string name="imgprofile">Image For Profile</string>
+    <string name="welcome_activity_title">Welcome Activity</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">SignUp</string>
+    <string name="demographic_data">"Demographic Data "</string>
+    <string name="prediction_data">"Prediction Data "</string>
+    <string name="prediction">Result Prediction</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489025504084",
+    "project_id": "authenticationmentalcare",
+    "storage_bucket": "authenticationmentalcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489025504084:android:dea968dd3802268e2a7ec1",
+        "android_client_info": {
+          "package_name": "com.dea.mentalcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5avSGZPybwJkfsuaktXsk1T2nrcPXrU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
